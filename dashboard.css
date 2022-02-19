@@ -1,0 +1,45 @@
+.dashboard-ctn {
+    grid-column: 1 / 2;
+    grid-row: 1 / 5;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows:0.4fr 1fr 6fr;
+    justify-content: center;
+    font-size: 30px;
+    gap: 30px;
+    padding: 20px;
+    background-color: rgb(26, 154, 228);
+
+    font-weight: bold;
+}
+
+.list-main {
+   list-style-type: none;
+   font-size: 22px;
+   color: white;
+   line-height: 5vh;
+   cursor: pointer;
+}
+
+.list-stg {
+    list-style-type: none;
+    font-size: 22px;
+    color: white;
+    line-height: 5vh;
+    cursor: pointer;
+}
+
+.list-main li:hover {
+    padding: 10px;
+}
+
+
+.list-stg li:hover {
+    padding: 10px;
+}
+
+.logo {
+    color: white;
+}
+
