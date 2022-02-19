@@ -16,7 +16,7 @@
 .your-projects > h3 {
     margin-top: 12px;
     margin-left: 10px;
-    margin-bottom: -2px;
+    margin-bottom: -4px;
 }
 .container-projects {
     height: 100%;
@@ -89,7 +89,7 @@
     align-items: flex-start;
     flex-direction: column;
     gap: 10px;
-    margin-top: -15px;
+    margin-top: -32px;
     
 }
 
